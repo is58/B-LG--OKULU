@@ -8,4 +8,6 @@
 
 <p>HTML, BOOTSTRAP ve CSS kullanılarak web sitesi oluşturuldu.</p>
 
-![](screen.webm)
+<h3>Ekran Görüntüsü</h3>
+
+![](view.gif)
