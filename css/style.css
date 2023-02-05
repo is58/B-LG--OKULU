@@ -1,0 +1,72 @@
+.resimslider{
+    height: 550px;
+}
+
+body{
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.hakkimizda{
+    background-color: rgb(245, 239, 239);
+}
+
+.galeri{
+    background-color: rgb(245, 239, 239);
+}
+
+.aracizgi{
+ border-top: 2px solid #443f3f;
+ opacity: 1;
+ max-width: 250px;  
+ margin: 20px auto;
+}
+
+.igri{
+    color: #443f3f;
+    position: relative;
+    top: -50px;
+    font-size: 35px;
+    border: 10px solid rgb(245, 239, 239);
+    background-color: rgb(245, 239, 239);
+
+}
+
+.ibeyaz{
+    color: #443f3f;
+    position: relative;
+    top: -50px;
+    font-size: 35px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.ekipcard img:hover{
+   opacity:0.85;
+}
+
+
+.figure:hover{
+opacity: 0.7;
+}
+
+.card-deck .row{
+ justify-content:space-evenly;
+ padding: 10px;
+}
+
+.ekipcard{
+    border: none;
+    
+}
+
+.ekipcard img{
+    position: relative;
+    top:15px;
+    border-radius: 5px;
+}
+
+
+.form-group.row{
+    margin-top: 3px;
+}
